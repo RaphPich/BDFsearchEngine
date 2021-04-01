@@ -1,0 +1,34 @@
+Agricultural Economics|https://edirc.repec.org/agecon.html
+Countrywide Studies|https://edirc.repec.org/country.html
+Econometrics, Mathematical Economics|https://edirc.repec.org/ectrix.html
+Economic Development|https://edirc.repec.org/ecdev.html
+Economic Education|https://edirc.repec.org/ecedu.html
+Economic History, History of Economics|https://edirc.repec.org/echistory.html
+Economic and Game Theory|https://edirc.repec.org/ectheory.html
+Financial Economics, Risk and Insurance|https://edirc.repec.org/finecon.html
+Forecasting, Business Cycles, Monetary Economics|https://edirc.repec.org/cycles.html
+Health Economics|https://edirc.repec.org/healthecon.html
+Industrial Economics, Regulation|https://edirc.repec.org/indecon.html
+International Economics|https://edirc.repec.org/intlecon.html
+Labor and Demographic Economics|https://edirc.repec.org/laborecon.html
+Law and Economics|https://edirc.repec.org/lawecon.html
+Miscellaneous (Academics)|https://edirc.repec.org/acadmisc.html
+Public Economics, Political Economy|https://edirc.repec.org/pubecon.html
+Public Policy|https://edirc.repec.org/pubpolicy.html
+Regional and Urban Economics, Real Estate|https://edirc.repec.org/regional.html
+Resource and Environmental Economics, Energy Economics|https://edirc.repec.org/resource.html
+Welfare Economics|https://edirc.repec.org/welfare.html
+Central Banks, Monetary Authorities|https://edirc.repec.org/central.html
+Ministries of Economic Development|https://edirc.repec.org/minecdev.html
+Ministries of Economy|https://edirc.repec.org/minecon.html
+Ministries of Finance, Treasuries|https://edirc.repec.org/minfin.html
+Ministries of Industry|https://edirc.repec.org/minind.html
+Ministries of Labor or Employment|https://edirc.repec.org/minlabor.html
+Ministries of Planning|https://edirc.repec.org/minplan.html
+Ministries of Revenue or Taxation|https://edirc.repec.org/minrev.html
+Ministries of Trade or Commerce|https://edirc.repec.org/mintrade.html
+Miscellaneous (Governmental)|https://edirc.repec.org/govmisc.html
+Regulatory Authorities|https://edirc.repec.org/regul.html
+Statistical Offices|https://edirc.repec.org/statoff.html
+Think Tanks|https://edirc.repec.org/ttanks.html
+International Organizations|https://edirc.repec.org/intorg.html

@@ -1,0 +1,98 @@
+ACC Accounting & Auditing|/i/eacc.html
+AFR Africa|/i/eafr.html
+AGE Economics of Ageing|/i/eage.html
+AGR Agricultural Economics|/i/eagr.html
+ARA MENA - Middle East & North Africa|/i/eara.html
+BAN Banking|/i/eban.html
+BEC Business Economics|/i/ebec.html
+BIG Big Data|/i/ebig.html
+CBA Central Banking|/i/ecba.html
+CBE Cognitive & Behavioural Economics|/i/ecbe.html
+CDM Collective Decision-Making|/i/ecdm.html
+CFN Corporate Finance|/i/ecfn.html
+CIS Confederation of Independent States|/i/ecis.html
+CMP Computational Economics|/i/ecmp.html
+CNA China|/i/ecna.html
+COM Industrial Competition|/i/ecom.html
+CSE Economics of Strategic Management|/i/ecse.html
+CTA Contract Theory & Applications|/i/ecta.html
+CUL Cultural Economics|/i/ecul.html
+CWA Central & Western Asia|/i/ecwa.html
+DCM Discrete Choice Models|/i/edcm.html
+DEM Demographic Economics|/i/edem.html
+DES Economic Design|/i/edes.html
+DEV Development|/i/edev.html
+DGE Dynamic General Equilibrium|/i/edge.html
+ECM Econometrics|/i/eecm.html
+EDU Education|/i/eedu.html
+EEC European Economics|/i/eeec.html
+EFF Efficiency & Productivity|/i/eeff.html
+ENE Energy Economics|/i/eene.html
+ENT Entrepreneurship|/i/eent.html
+ENV Environmental Economics|/i/eenv.html
+ETS Econometric Time Series|/i/eets.html
+EUR Microeconomic European Issues|/i/eeur.html
+EVO Evolutionary Economics|/i/eevo.html
+EXP Experimental Economics|/i/eexp.html
+FDG Financial Development & Growth|/i/efdg.html
+FLE Financial Literacy & Education|/i/efle.html
+FMK Financial Markets|/i/efmk.html
+FOR Forecasting|/i/efor.html
+GEN Gender|/i/egen.html
+GEO Economic Geography|/i/egeo.html
+GER German Papers|/i/eger.html
+GRO Economic Growth|/i/egro.html
+GTH Game Theory|/i/egth.html
+HAP Economics of Happiness|/i/ehap.html
+HEA Health Economics|/i/ehea.html
+HIS Business, Economic & Financial History|/i/ehis.html
+HME Heterodox Microeconomics|/i/ehme.html
+HPE History & Philosophy of Economics|/i/ehpe.html
+HRM Human Capital & Human Resource Management|/i/ehrm.html
+IAS Insurance Economics|/i/eias.html
+ICT Information & Communication Technologies|/i/eict.html
+IFN International Finance|/i/eifn.html
+IND Industrial Organization|/i/eind.html
+INO Innovation|/i/eino.html
+INT International Trade|/i/eint.html
+IPR Intellectual Property Rights|/i/eipr.html
+ISF Islamic Finance|/i/eisf.html
+IUE Informal & Underground Economics|/i/eiue.html
+KNM Knowledge Management & Knowledge Economy|/i/eknm.html
+LAB Labour Economics|/i/elab.html
+LAM Central & South America|/i/elam.html
+LAW Law & Economics|/i/elaw.html
+LMA Labor Markets - Supply, Demand, & Wages|/i/elma.html
+LTV Unemployment, Inequality & Poverty|/i/eltv.html
+MAC Macroeconomics|/i/emac.html
+MFD Microfinance|/i/emfd.html
+MIC Microeconomics|/i/emic.html
+MIG Economics of Human Migration|/i/emig.html
+MKT Marketing|/i/emkt.html
+MON Monetary Economics|/i/emon.html
+MST Market Microstructure|/i/emst.html
+NET Network Economics|/i/enet.html
+NEU Neuroeconomics|/i/eneu.html
+OPM Open Economy Macroeconomics|/i/eopm.html
+ORE Operations Research|/i/eore.html
+PAY Payment Systems & Financial Technology|/i/epay.html
+PBE Public Economics|/i/epbe.html
+PKE Post Keynesian Economics|/i/epke.html
+POL Positive Political Economics|/i/epol.html
+PPM Project, Program & Portfolio Management|/i/eppm.html
+PUB Public Finance|/i/epub.html
+REG Regulation|/i/ereg.html
+RES Resource Economics|/i/eres.html
+RMG Risk Management|/i/ermg.html
+SBM Small Business Management|/i/esbm.html
+SEA South East Asia|/i/esea.html
+SOC Social Norms & Social Capital|/i/esoc.html
+SOG Sociology of Economics|/i/esog.html
+SPO Sports & Economics|/i/espo.html
+TID Technology & Industrial Dynamics|/i/etid.html
+TRA Transition Economics|/i/etra.html
+TRE Transport Economics|/i/etre.html
+TUR Tourism Economics|/i/etur.html
+UPT Utility Models & Prospect Theory|/i/eupt.html
+URE Urban & Real Estate Economics|/i/eure.html
+WAR War & peace|/i/ewar.html
